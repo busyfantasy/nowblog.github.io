@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: study blog
 ---
 怎样在GitHub上搭建个人博客
 
